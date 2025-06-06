@@ -5,7 +5,7 @@ import json
 import re
 import requests
 
-DEEPSEEK_API_KEY='sk-44acc5e7972c415790dcd1d6bce7b39a'
+DEEPSEEK_API_KEY='enter api_token'
 
 # App configuration
 st.set_page_config(page_title="🐳💬 DeepSeek R1 Chatbot", initial_sidebar_state="expanded")

@@ -6,7 +6,7 @@ import re
 import requests
 import os
 
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY") 
 
 # App configuration
 st.set_page_config(page_title="🐳💬 DeepSeek R1 Chatbot", initial_sidebar_state="expanded")
